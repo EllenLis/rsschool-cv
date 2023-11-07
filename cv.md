@@ -73,5 +73,3 @@ GitHub Repository: **[cssMemeSlider](https://github.com/EllenLis/cssMemeSlider/t
 
 ### Languages:
 + English - Upper-Intermediate
-+ Russian - Native
-+ Ukrainian - Basic
