@@ -31,3 +31,24 @@ Thank you for considering my profile. I'm confident that with my enthusiasm and 
 * Xcode
 * Swift UI
 * UIKit
+
+### Code Example:
+Leetcode task:
+> Given an integer x, return true if x is a palindrome, and false otherwise.
+
+My solution:
+
+```
+class Solution {
+    func isPalindrome(_ x: Int) -> Bool {
+       var number = x
+    var reverseNumber = 0
+    while number > 0 {
+        let reminder = number % 10
+        reverseNumber = reverseNumber * 10 + reminder
+        number = number / 10
+    }
+    return x == reverseNumber    
+    } 
+}
+```
