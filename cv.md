@@ -61,3 +61,17 @@ GitHub Repository: **[cssMemeSlider](https://github.com/EllenLis/cssMemeSlider/t
 + Implemented a responsive user interface with HTML and CSS, focusing on layout techniques and design principles.
 + Utilized button-based navigation for sliding between memes.
 + Ensured cross-browser functionality and optimized the code for performance and maintainability.
+
+### Education:
++ Kazan Federal University, KFU
+  - Accounting, analysis and audit
++ Educational projects in Netology
+  - [Course iOS developer](https://netology.ru/programs/ios-developer)
++ RS Schools Course [«JavaScript/Front-end. Stage 0»](https://rs.school/js-stage0/)
+  - My Grade: 85%
++ RS Schools Course «JavaScript/Front-end» (in progress)
+
+### Languages:
++ English - Upper-Intermediate
++ Russian - Native
++ Ukrainian - Basic
