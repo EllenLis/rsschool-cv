@@ -52,3 +52,12 @@ class Solution {
     } 
 }
 ```
+### Work Experience:
+Educational Projects:
+
+GitHub Repository: **[cssMemeSlider](https://github.com/EllenLis/cssMemeSlider/tree/main)**
+
++ Developed a dynamic theme slider as a personal project to demonstrate proficiency in front-end technologies.
++ Implemented a responsive user interface with HTML and CSS, focusing on layout techniques and design principles.
++ Utilized button-based navigation for sliding between memes.
++ Ensured cross-browser functionality and optimized the code for performance and maintainability.
